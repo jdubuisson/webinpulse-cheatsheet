@@ -42,7 +42,7 @@
 * Comment récupérer un dépôt distant en local ?
 * Comment récupérer les "nouveautés" du dépôt distant ?
 * Comment récupérer une branche distante ?
-* Comment envoyer des commits locaux sur le serveur ?
+* [Réponse Inès.](commits-serveur.md)
 * Comment envoyer une branche locale sur le serveur ?
 
 ## Travailler à plusieurs

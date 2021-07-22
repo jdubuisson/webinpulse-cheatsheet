@@ -42,6 +42,7 @@
 * Comment récupérer un dépôt distant en local ?
 * Comment récupérer les "nouveautés" du dépôt distant ?
 * Comment récupérer une branche distante ?
+* [Réponse Florian.](https://github.com/jdubuisson/webinpulse-cheatsheet/blob/depot_distant_changements/serveur_distant/depot_distant_changements.md)
 * Comment envoyer des commits locaux sur le serveur ?
 * Comment envoyer une branche locale sur le serveur ?
 

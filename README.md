@@ -24,7 +24,7 @@
 
 ## Opérations sur les branches
 
-* Qu'est-ce qu'une branche ?
+* [Qu'est-ce qu'une branche ?](branches/branche.md)
 * Comment lister les branches ?
 * Comment créer une branche ?
 * Comment supprimer une branche ?

@@ -8,7 +8,7 @@
 
 * Qu'est-ce que Git ?
 * Qu'est-ce qu'un commit ?
-* [quels sont les zones?](reponsezones.md)
+* [quelles sont les zones?](reponsezones.md)
 
 * Quelles sont les états que peux avoir un fichier ?
 

@@ -32,7 +32,7 @@
 * Qu'est-ce que `HEAD` ?
 * Comment fusionner une branche dans une autre ?
 * Qu'est-ce qu'une fusion en avance rapide ?
-* [Qu'est-ce qu'une fusion à trois points ?](branches/fusion3Points.md)
+* [Qu'est-ce qu'une fusion à trois points ?](branches/fusion_3_Points.md)
 * Comment fonctionne un rebasage d'une branche sur une autre ?
 * Comment rebaser une branche sur une autre ?
 * Comment résoudre un conflit lors d'une fusion ?

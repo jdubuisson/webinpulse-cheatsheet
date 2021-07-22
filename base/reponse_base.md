@@ -1,0 +1,2 @@
+# Comment revenir à une version précédente ?
+il faut utiliser git checkout "le nom de l'ancien commit" pour pouvoir revenir a une version précédente pour avoir plus d'info cliquer sur : https://grafikart.fr/tutoriels/checkout-revert-reset-586

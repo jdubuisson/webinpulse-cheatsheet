@@ -7,8 +7,8 @@
 ## Git
 
 * Qu'est-ce que Git ?
-* [Qu'est-ce qu'un commit ?](reponse_commit.md)
-* [quelles sont les zones?](reponse_zones.md)
+* [Qu'est-ce qu'un commit ?](git/reponse_commit.md)
+* [quelles sont les zones?](git/reponse_zones.md)
 
 * Quelles sont les états que peux avoir un fichier ?
 

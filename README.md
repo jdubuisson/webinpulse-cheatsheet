@@ -6,7 +6,7 @@
 
 ## Git
 
-* [Qu'est-ce que Git ?](git.md)
+* [Qu'est-ce que Git ?](git/git.md)
 * Qu'est-ce qu'un commit ?
 * Quelles sont les zones ?
 * Quelles sont les états que peux avoir un fichier ?

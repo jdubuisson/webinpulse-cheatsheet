@@ -14,7 +14,8 @@
 ## Opérations de base
 
 * Comment initialiser un nouveau dépôt GIT ?
-* Comment enregistrer des modifications afin de créer une nouvelle version ?
+* [Comment enregistrer des modifications afin de créer une nouvelle version ?](/base/enregistrer_des_modifications.md)
+
 * Comment revenir à une version précédente ?
 * Comment annuler des modifications locales non versionnées ?
 * Comment annuler le dernier commit ?

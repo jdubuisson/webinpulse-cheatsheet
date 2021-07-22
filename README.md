@@ -29,6 +29,7 @@
 * Comment créer une branche ?
 * Comment supprimer une branche ?
 * Comment changer de branche ?
+[reponse Thomas](branches/changer_de_branche.md)
 * Qu'est-ce que `HEAD` ?
 * Comment fusionner une branche dans une autre ?
 * Qu'est-ce qu'une fusion en avance rapide ?

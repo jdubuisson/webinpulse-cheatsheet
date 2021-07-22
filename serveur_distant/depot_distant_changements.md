@@ -1,0 +1,3 @@
+# Je n'ai accès au dépôt distant : Comment proposer des changements ?
+Une fois qu’on a terminé nos modifications localement, on va les pousser vers le dépôt distant. On utilise pour cela la commande git push [nom-distant] [nom-de-branche]. Si on souhaite par exemple pousser les modifications faites sur notre branche master vers le serveur origin, on écrira git push origin master.
+Notez que cette commande ne fonctionnera que si vous avez cloné depuis un serveur sur lequel vous avez des droits d’accès en écriture et si personne n’a poussé dans l’intervalle. Cela évite des conflits et d’effacer certaines modifications dans le cas où deux personnes auraient modifié différemment les mêmes fichiers par exemple.

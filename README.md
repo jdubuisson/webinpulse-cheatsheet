@@ -27,7 +27,7 @@
 * Qu'est-ce qu'une branche ?
 * Comment lister les branches ?
 * Comment créer une branche ?
-* Comment supprimer une branche ?
+* [Comment supprimer une branche ?](branches/suppression_branche.md)
 * Comment changer de branche ?
 * [Comment changer de branche ?](branches/changer_de_branche.md)
 * Qu'est-ce que `HEAD` ?

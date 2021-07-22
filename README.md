@@ -35,6 +35,7 @@
 * Qu'est-ce qu'une fusion à trois points ?
 * Comment fonctionne un rebasage d'une branche sur une autre ?
 * Comment rebaser une branche sur une autre ?
+* Comment résoudre un conflit lors d'une fusion ?
 
 ## Opérations avec serveur distant
 

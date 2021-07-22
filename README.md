@@ -8,7 +8,8 @@
 
 * Qu'est-ce que Git ?
 * Qu'est-ce qu'un commit ?
-* Quelles sont les zones ?
+* [quels sont les zones?](reponsezones.md)
+
 * Quelles sont les états que peux avoir un fichier ?
 
 ## Opérations de base

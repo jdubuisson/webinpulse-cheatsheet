@@ -55,5 +55,5 @@
 
 * Comment commiter un dossier vide ?
 * Comment éviter de commiter des fichiers inutiles ?
-* J'ai "cassé" une branche locale : Comment récupérer une branche propre depuis le serveur distant ?
+* [J'ai "cassé" une branche locale : Comment récupérer une branche propre depuis le serveur distant ?](recup_branch.md)
 * Comment modifier un commit existant ? (message ou contenu)

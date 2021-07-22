@@ -34,7 +34,7 @@
 * Qu'est-ce qu'une fusion en avance rapide ?
 * [Qu'est-ce qu'une fusion à trois points ?](branches/fusion_3_Points.md)
 * Comment fonctionne un rebasage d'une branche sur une autre ?
-* Comment rebaser une branche sur une autre ?
+* [Comment rebaser une branche sur une autre ?](branches/rebaser_une_branche.md)
 * Comment résoudre un conflit lors d'une fusion ?
 
 ## Opérations avec serveur distant

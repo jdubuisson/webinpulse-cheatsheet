@@ -1,0 +1,2 @@
+# Quels sont les zones ?
+ Ce sont des zones ou peuvent etre situé un fichier il y a 3 zones en tout : la copie du travail, l'index et le dépot local.voici plus de détails sur ce site : https://cours-video.delicious-insights.com/courses/git-concepts/142778-comprendre-git/421655-zones-et-cycle-de-vie-des-fichiers

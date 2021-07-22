@@ -27,7 +27,7 @@
 ## Opérations sur les branches
 
 * Qu'est-ce qu'une branche ?
-* Comment lister les branches ?
+* [Comment lister les branches ?](branches/lister_les_branches.md)
 * Comment créer une branche ?
 * [Comment supprimer une branche ?](branches/suppression_branche.md)
 * [Comment changer de branche ?](branches/changer_de_branche.md)

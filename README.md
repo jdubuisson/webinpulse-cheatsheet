@@ -16,7 +16,7 @@
 * Comment initialiser un nouveau dépôt GIT ?
 * Comment enregistrer des modifications afin de créer une nouvelle version ?
 * Comment revenir à une version précédente ?
-* Comment annuler des modifications locales non versionnées ?
+* [Comment annuler des modifications locales non versionnées ?](reponse.md)
 * Comment annuler le dernier commit ?
 * Comment écrire un bon message de commit ?
 * git status : comment et pourquoi ?

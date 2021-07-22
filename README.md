@@ -33,7 +33,7 @@
 * Comment fusionner une branche dans une autre ?
 * Qu'est-ce qu'une fusion en avance rapide ?
 * Qu'est-ce qu'une fusion à trois points ?
-* Comment fonctionne un rebasage d'une branche sur une autre ?
+* Comment fonctionne un rebasage d'une branche sur une autre ? [Réponse] (/fonctionnement_rebasage_branche.md)
 * Comment rebaser une branche sur une autre ?
 * Comment résoudre un conflit lors d'une fusion ?
 

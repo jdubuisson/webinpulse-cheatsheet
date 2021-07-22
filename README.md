@@ -53,7 +53,7 @@
 
 ## Autres / Bonus / Vos idées
 
-* Comment commiter un dossier vide ?
+* [Comment commiter un dossier vide ?](autres/commiter_dossier_vide.md)
 * Comment éviter de commiter des fichiers inutiles ?
 * J'ai "cassé" une branche locale : Comment récupérer une branche propre depuis le serveur distant ?
 * Comment modifier un commit existant ? (message ou contenu)

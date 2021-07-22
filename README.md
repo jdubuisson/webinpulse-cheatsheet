@@ -43,9 +43,9 @@
 * Comment récupérer les "nouveautés" du dépôt distant ?
 * Comment récupérer une branche distante ?
 * Comment envoyer des commits locaux sur le serveur ?
-* [Comment envoyer une branche locale sur un serveur?](send_branch_to_server.md)
+* [Comment envoyer une branche locale sur un serveur?](serveur_distant/send_branch_to_server.md)
 
-[la réponse a cette question se trouve ici] (sendBrancheToServer.md)
+
 
 ## Travailler à plusieurs
 

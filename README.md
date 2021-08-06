@@ -39,8 +39,8 @@
 
 ## Opérations avec serveur distant
 
-* [Comment récupérer un dépôt distant en local ?](recuperer_une_branche_distante.md)
-* [Comment récupérer les "nouveautés" du dépôt distant ?](recuperer_depot_distant_en_local.md)
+* Comment récupérer un dépôt distant en local ?
+* Comment récupérer les "nouveautés" du dépôt distant ?
 * [Comment récupérer une branche distante ?](depot_distant_changements.md)
 * Comment envoyer des commits locaux sur le serveur ?
 * [Comment envoyer une branche locale sur un serveur?](serveur_distant/send_branch_to_server.md)
